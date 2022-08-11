@@ -1,0 +1,35 @@
+body {
+  background: url('../img/dot-grid.png') repeat;
+  padding: 3rem;
+}
+
+button {
+    border: 0px;
+    background: #fff;
+    width: 100%;
+    text-align: left;
+}
+
+.button {
+    border-radius: 10px;
+    background: #ffd300;
+    padding: .5rem;
+    border: 0px;
+    box-shadow: 3px 3px 3px #888;
+    cursor: pointer;
+    text-align: center;
+}
+
+.accordion-item {
+    background: #fff;
+    border: #ccc 1px solid;
+}
+
+.accordion-body {
+    padding: 15px;
+}
+
+.accordion h2 {
+    font-size: 1em;
+    margin-top: 10px;
+}
